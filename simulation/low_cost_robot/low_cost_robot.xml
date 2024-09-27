@@ -36,8 +36,8 @@
                 <position ctrlrange="-3.14158 3.14158" kp="25"/>
             </default>
             <default class="joint5">
-                <joint axis="0 0 -1" pos="-0.008443 0.141678 0.177687" range="-2.45 0.032" damping="0.1"/>
-                <position ctrlrange="-2.45 0.032" kp="25"/>
+                <joint axis="0 0 -1" pos="-0.008443 0.141678 0.177687" range="-3.14158 3.14158" damping="0.1"/>
+                <position ctrlrange="-3.14158 3.14158" kp="25"/>
             </default>
         </default>
     </default>
